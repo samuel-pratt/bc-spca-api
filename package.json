@@ -1,0 +1,23 @@
+{
+  "name": "bc-spca-api",
+  "version": "1.0.0",
+  "description": "🐶 The only public API for retrieving current data from the BC SPCA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-pratt/bc-spca-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-pratt/bc-spca-api/issues"
+  },
+  "homepage": "https://github.com/samuel-pratt/bc-spca-api#readme",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
